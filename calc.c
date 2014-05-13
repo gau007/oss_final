@@ -36,6 +36,8 @@ int main()
 	printf("\n enter your choice");
 	scanf("%d",&opt);
 //	printf("%d",opt);
+
+//    2nd  edit by ranawaregv .................
 	
 	switch(opt)
 	{
