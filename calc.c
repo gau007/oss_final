@@ -38,7 +38,7 @@ int main()
 //	printf("%d",opt);
 
 //    2nd  edit by ranawaregv .................
-//   commmit by collaborator...............commit 3 by gau 007
+//   commmit by collaborator...............commit 3 by gau007
 	
 	switch(opt)
 	{
